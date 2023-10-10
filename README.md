@@ -2,7 +2,7 @@
     Hello Wolrd
 </h1>
     
-    Welcome to my GitHub
+Welcome to my GitHub
 
 <p>
     I'm professional at the beginning of his career, with knowledge of Python, Java, OOP, programming logic and web development.
