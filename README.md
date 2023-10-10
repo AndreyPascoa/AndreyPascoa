@@ -2,6 +2,10 @@
     Hello Wolrd
 </h1>
     Welcome to my GitHub
+
+<h2>
+    About me
+</h2>
 <p>
     I'm professional at the beginning of his career, with knowledge of Python, Java, OOP, programming logic and web development.
 </p>
