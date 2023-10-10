@@ -5,7 +5,7 @@
 Welcome to my GitHub
 
 <p>
-    I'm professional at the beginning of his career, with knowledge of Python, Java, OOP, programming logic and web development.
+    I'm a professional at the beginning of my career, with knowledge of Python, Java, OOP, programming logic and web development.
 </p>
 
 <div>
