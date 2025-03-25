@@ -28,7 +28,7 @@ I'm a passionate software developer with a love for creating innovative solution
 ## 📧 How to Reach Me
 
 - **Email**: [andrey.pascoa@example.com](mailto\:andrey.pascoa@example.com)
-- **LinkedIn**: [Andrey Pascoa]([https://www.linkedin.com/in/andreypascoa](https://www.linkedin.com/in/andrey-pascoa/))
+- **LinkedIn**: [Andrey Pascoa](https://www.linkedin.com/in/andrey-pascoa/)
 
 ## 📈 GitHub Stats
 ![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyPascoa&show_icons=true&theme=radical)
