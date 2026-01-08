@@ -56,7 +56,7 @@
 
 <h2>Contact</h2>
 <ul>
-    <li><strong>Email</strong>: <a href="mailto:andrey.pascoa@example.com">andrey.pascoa@example.com</a></li>
+    <li><strong>Email</strong>: <a href="mailto:andrey.pascoa@gmail.com">andrey.pascoa@example.com</a></li>
     <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/andrey-pascoa/" target="_blank">linkedin.com/in/andrey-pascoa</a></li>
 </ul>
 
