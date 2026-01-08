@@ -60,19 +60,5 @@
     <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/andrey-pascoa/" target="_blank">linkedin.com/in/andrey-pascoa</a></li>
 </ul>
 
-<hr>
-
-<h2>GitHub Stats</h2>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AndreyPascoa&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<hr>
-
-<h2>Top Languages</h2>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyPascoa&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
 </body>
 </html>
